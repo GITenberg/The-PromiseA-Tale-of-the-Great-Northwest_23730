@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6523'
     url: http://www.gutenberg.org/2009/agents/6523
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23730#The-PromiseA-Tale-of-the-Great-Northwest
 gutenberg_issued: '2007-12-04'
 gutenberg_type: Text
 identifiers:
